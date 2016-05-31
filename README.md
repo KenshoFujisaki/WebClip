@@ -7,7 +7,7 @@ Extract the content including HTML tags from web page (like [evernote web clippe
 ruby web_clip.rb [URL]
 
 # e.g.
-ruby web_clip.rb https://github.com/KenshoFujisaki/WebClip
+ruby web_clip.rb http://ni66ling.hatenadiary.jp/entry/2015/06/25/013640
 ```
 
 ## License
